@@ -37,6 +37,6 @@ The objective of this project is to analyze sales and revenue data using Power B
 - Male customers contributed slightly more revenue than female customers.
 - Some states demonstrated higher profitability, while others showed lower returns.
 - Geographic analysis helped identify high-performing and underperforming markets.
-- 
+
 ## Conclusion
 - The Revenue Sales Analytics Dashboard provides a comprehensive view of business performance across customers, products, and regions. The analysis identifies key revenue-generating segments, profitable markets, and sales trends, enabling organizations to make informed decisions, improve profitability, optimize marketing strategies, and drive business growth.
