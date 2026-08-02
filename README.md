@@ -3,6 +3,7 @@
 The objective of this project is to analyze sales and revenue data using Power BI and create interactive dashboards that help understand customer demographics, regional sales performance, product category trends, gender-wise revenue distribution, and profitability. The dashboard supports data-driven business decisions by identifying key revenue drivers and sales patterns.
 ## Dataset Used
 - <a href="https://github.com/Varsha-D89/Revenue_sales-dashboard/blob/main/Revenue_sales.csv">Dataset</a>
+
 ## Questions (KPIs)
 - Which age group generates the highest revenue?
 - Which states contribute the most to total revenue?
@@ -26,6 +27,7 @@ The objective of this project is to analyze sales and revenue data using Power B
 - Designed an interactive dashboard for decision-making.
  ## Dashboard
  <img width="575" height="327" alt="image" src="https://github.com/user-attachments/assets/1e3df036-1b65-4711-b91e-f08862ee3092" />
+ 
 ## Project Insights
 - Customers aged 21–30 years generated the highest revenue.
 - California contributed the highest share of total revenue.
@@ -35,5 +37,6 @@ The objective of this project is to analyze sales and revenue data using Power B
 - Male customers contributed slightly more revenue than female customers.
 - Some states demonstrated higher profitability, while others showed lower returns.
 - Geographic analysis helped identify high-performing and underperforming markets.
+- 
 ## Conclusion
 - The Revenue Sales Analytics Dashboard provides a comprehensive view of business performance across customers, products, and regions. The analysis identifies key revenue-generating segments, profitable markets, and sales trends, enabling organizations to make informed decisions, improve profitability, optimize marketing strategies, and drive business growth.
