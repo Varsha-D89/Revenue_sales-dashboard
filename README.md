@@ -15,10 +15,9 @@ The objective of this project is to analyze sales and revenue data using Power B
 - What is the overall revenue distribution across customer segments?
 - How can sales performance be improved based on these insights?
 -  Dashboard Interface  <a href="https://github.com/Varsha-D89/Revenue_sales-dashboard/blob/main/week%202.pbix">View Dashboard</a>
-
 ## Process
 - Collected and imported sales data into Power BI.
- Cleaned and transformed the dataset using Power Query.
+- Cleaned and transformed the dataset using Power Query.
 - Created relationships and data models.
 - Developed DAX measures for revenue analysis.
 - Built visualizations for age-wise, state-wise, gender-wise, and category-wise revenue analysis.
@@ -36,5 +35,5 @@ The objective of this project is to analyze sales and revenue data using Power B
 - Male customers contributed slightly more revenue than female customers.
 - Some states demonstrated higher profitability, while others showed lower returns.
 - Geographic analysis helped identify high-performing and underperforming markets.
-  ## Conclusion
-The Revenue Sales Analytics Dashboard provides a comprehensive view of business performance across customers, products, and regions. The analysis identifies key revenue-generating segments, profitable markets, and sales trends, enabling organizations to make informed decisions, improve profitability, optimize marketing strategies, and drive business growth.
+## Conclusion
+- The Revenue Sales Analytics Dashboard provides a comprehensive view of business performance across customers, products, and regions. The analysis identifies key revenue-generating segments, profitable markets, and sales trends, enabling organizations to make informed decisions, improve profitability, optimize marketing strategies, and drive business growth.
