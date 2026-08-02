@@ -15,6 +15,7 @@ The objective of this project is to analyze sales and revenue data using Power B
 - What is the overall revenue distribution across customer segments?
 - How can sales performance be improved based on these insights?
 -  Dashboard Interface  <a href="https://github.com/Varsha-D89/Revenue_sales-dashboard/blob/main/week%202.pbix">View Dashboard</a>
+
 ## Process
 - Collected and imported sales data into Power BI.
  Cleaned and transformed the dataset using Power Query.
